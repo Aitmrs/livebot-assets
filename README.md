@@ -48,3 +48,11 @@
 ## 四、声明 📜
 
 本脚本仅供学习与技术交流，请遵守平台规则和相关法律法规。
+
+---
+
+## 打赏 ☕
+
+如果这个脚本帮到了你，欢迎请作者喝杯咖啡~
+
+<a href="https://www.afdian.com/a/tanmusong" target="_blank"><img src="https://pic1.afdiancdn.com/static/img/welcome/button-sponsorme.png" height="40"></a>
